@@ -1,5 +1,4 @@
 # React + Vite
-#THISJAHID. 
 
 1. Clicking on Donation Cards:
  We provide clicking-on donation cards to show helpful information on each donation card. It helps the users to get all the detailed and relevant information related to the purpose of the donation and its basic information.
